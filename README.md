@@ -1,4 +1,3 @@
-![Banner Image](image/Banner.png)
 
 # Hi there! 👋 I'm Ramees Raafi
 
