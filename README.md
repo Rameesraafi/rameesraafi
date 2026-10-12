@@ -131,7 +131,7 @@ I'm always interested in learning, collaborating, and working on interesting sof
 
 - 💼 [LinkedIn](https://www.linkedin.com/)
 - 🐙 [GitHub](https://github.com/)
-- 🎨 **Digital Xync**
+- 🎨 [Digital Xync](https://digitalxync.com/)
 - 💻 Open to interesting collaborations and projects
 
 ---
